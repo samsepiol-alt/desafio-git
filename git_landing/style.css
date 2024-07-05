@@ -57,3 +57,8 @@ form {
   box-shadow: none;
   top: 6px; 
 } 
+
+.mydiv{
+
+  background: url('https://loremflickr.com/320/240');
+}
